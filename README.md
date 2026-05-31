@@ -24,7 +24,7 @@ I enjoy building real-world e-commerce and business-oriented applications using 
 
 ## Featured Projects
 
-### ProximaTech E-Commerce
+### ProximaTech 
 A full-featured e-commerce platform with admin panel and product management system.
 
 Features:
@@ -40,7 +40,7 @@ Features:
 
 ---
 
-### Hangozluk
+### Han Gözlük
 An eyewear e-commerce platform built as a complete web application project.
 
 Features:
